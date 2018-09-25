@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Aniket Developer aniket@git.com 
 
 # THANKS
 
