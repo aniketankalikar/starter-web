@@ -9,7 +9,7 @@ this is sample example for multiple git stashing
 
 # THANKS
 
-    Thanks to all my students
+   Thanks to all my students who are learning Multiple STASH 
 
 # TECHNOLOGY COLOPHON
 
