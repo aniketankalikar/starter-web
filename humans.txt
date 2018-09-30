@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-this is sample example for git stashing
+this is sample example for multiple git stashing
 
 # TEAM
 
