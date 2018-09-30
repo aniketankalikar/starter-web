@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+this is sample example for git stashing
+
 # TEAM
 
    Aniket Developer aniket@git.com 
